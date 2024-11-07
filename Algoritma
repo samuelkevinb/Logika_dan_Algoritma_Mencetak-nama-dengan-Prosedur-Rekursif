@@ -1,0 +1,8 @@
+algoritma :
+1. Buat fungsi rekursif bernama cetak_nama yang menerima dua parameter:
+- nama: nama yang akan dicetak.
+- count: jumlah pencetakan yang dilacak (dimulai dari 1).
+2. Jika count melebihi 100, hentikan rekursi.
+3. Jika count belum mencapai 100:
+- Cetak nama.
+- Panggil kembali fungsi cetak_nama dengan menambahkan 1 pada count.
